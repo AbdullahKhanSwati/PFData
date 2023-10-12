@@ -15,7 +15,7 @@ if (argc>1)
     }
 }
 else{
-    printf("error , please provise temprature");
+    printf("error , please provide us  temprature");
 }
 
     
